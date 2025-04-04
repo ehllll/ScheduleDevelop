@@ -9,6 +9,8 @@ public class RequestDto {
     private String title;
     private String writer;
     private String content;
+    private String username;
+    private String email;
 
 
 }
